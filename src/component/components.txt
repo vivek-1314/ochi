@@ -1,0 +1,9 @@
+------components------
+navbar
+landing page
+marquee
+about
+playful
+cards 
+cards
+footer
