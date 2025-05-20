@@ -8,8 +8,6 @@ function eyes() {
             let mousex = e.clientX ;
             let mousey = e.clientY ;
 
-            console.log(mousex , mousey) ;
-
             let deltax = mousex - window.innerWidth/2 ;
             let deltay = mousey - window.innerHeight/2 ;
 

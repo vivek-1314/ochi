@@ -13,7 +13,7 @@ function landingpage() {
                       {index === 1 && (<motion.div initial={{width:0}} animate={{width:'9.5%'}} transition={{ease: [0.85, 0, 0.15, 1] , duration: 0.8 , delay: 1}} className="h-[5.6vw] w-[8vw] overflow-hidden relative top-[0.53vw] rounded-md mr-2 bg-red-400">
                         <img className='h-full w-full bg-cover' src="https://i.pinimg.com/736x/9b/ea/67/9bea67b08810012f4f30878a11a2f6ef.jpg" alt="" />
                       </motion.div>)}
-                      <h1 className="text-[9vw] uppercase font-['Founders_Grotesk'] leading-[7.5vw]">
+                      <h1 className="text-[9vw] uppercase font-founders-grotesk leading-[7.5vw]">
                           {item}
                       </h1>
                     </div>);

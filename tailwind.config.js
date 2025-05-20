@@ -5,9 +5,6 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        founders: ['Founders Grotesk', 'sans-serif'], // Add your custom font here
-      },
     },
   },
   plugins: []
